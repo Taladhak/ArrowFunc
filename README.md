@@ -1,0 +1,2 @@
+# ArrowFunc
+Arrow functions exercise
